@@ -4,6 +4,6 @@
 #ifndef SUM_GUARD_H
 #define SUM_GUARD_H
 
-int simple_parentheses(char * str);
+int simple_input(void);
 
 #endif
